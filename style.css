@@ -1,0 +1,43 @@
+
+
+
+
+
+body{
+ color:aqua
+ background-color:aquamarine
+ margin: 0px;
+ margin-bottom: 100px;
+}
+
+header{
+
+    border-bottom: solid 2px yellow
+    margin: 20px;
+    font-size: 32px;
+    color: green
+}
+
+section{
+    padding-bottom:80px;
+    padding-top:80px
+    background: pink 
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color:red
+    font-size:40px;
+}
+p{
+    font-size: 20px;
+}
+
+.chamada-texto{
+    margin-right 1%;
+    text-align:center;
+    padding:20px;
+    background-color:blue
+    color:blueviolet
+}
